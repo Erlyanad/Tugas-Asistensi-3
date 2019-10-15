@@ -14,38 +14,6 @@ public class kendaraan {
     protected float jarakTempuhAwal;
     protected float jarakTempuh;
 
-//    public void setNamaKendaraan(String namaKendaraan) {
-//        this.namaKendaraan = namaKendaraan;
-//    }
-//
-//    public String getNamaKendaraan() {
-//        return namaKendaraan;
-//    }
-//    
-//    public void setTipeKendaraan(String tipeKendaraan) {
-//        this.tipeKendaraan = tipeKendaraan;
-//    }
-//
-//    public String getTipeKendaraan() {
-//        return tipeKendaraan;
-//    }
-//    
-//    public void setKapasitasMesin(int kapasitasMesin) {
-//        this.kapasitasMesin = kapasitasMesin;
-//    }
-//
-//    public int getKapasitasMesin() {
-//        return kapasitasMesin;
-//    }
-//    
-//    public void setBahanBakar(float bahanBakar) {
-//        this.bahanBakar = bahanBakar;
-//    }
-//  
-//    public float getBahanBakar() {
-//        return bahanBakar;
-//    }
-
     public void setIdKendaraan(int idKendaraan) {
         this.idKendaraan = idKendaraan;
     }
